@@ -1,0 +1,57 @@
+﻿{
+  "applicationCaption": "Postamat9",
+  "applicationTitle": "Postamat9",
+  "items": [
+    {
+      "link": null,
+      "menuName": "postamat9",
+      "caption": "Postamat9",
+      "title": "Postamat9",
+      "children": [
+        {
+          "link": "i-i-s-postamat9-логистика-l",
+          "menuName": null,
+          "caption": "Логистика",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-postamat9-служба-доставки-l",
+          "menuName": null,
+          "caption": "Служба доставки",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-postamat9-постамат-l",
+          "menuName": null,
+          "caption": "Постамат",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-postamat9-пользователь-l",
+          "menuName": null,
+          "caption": "Пользователь",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-postamat9-хранение-l",
+          "menuName": null,
+          "caption": "Хранение",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-postamat9-транзакция-l",
+          "menuName": null,
+          "caption": "Транзакция",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

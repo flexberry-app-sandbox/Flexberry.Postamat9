@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-postamat9-служба-доставки-e",
+  "editForm": "i-i-s-postamat9-служба-доставки-e",
+  "external": false,
+  "caption": "Служба доставки",
+  "name": "IISPostamat9СлужбаДоставкиL",
+  "className": "СлужбаДоставкиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-postamat9-служба-доставки",
+      "modelProjection": "СлужбаДоставкиL"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+docker-compose -p postamat9-java down
